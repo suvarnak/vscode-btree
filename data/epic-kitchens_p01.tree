@@ -1,0 +1,11 @@
+?
+|    ->
+|    |    [open door]
+|    |    [turn on light]
+|    ->
+|    |    [open drawer]
+|    |    (cup in drawer)
+|    |    ?
+|    |    |    [take cup]
+|    |    |    [open cupboard]
+|    |    |    [put cup]

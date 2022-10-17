@@ -1,0 +1,24 @@
+{
+    "dataset": "HierarchicalActivity",
+    "version": "VERSION 0.1",
+    "activity": {
+        "id": "act0001",
+        "label": "person_eating_breakfast",
+        "condition": "person_in_kitchen",
+        "sequence-of-actions": {
+            "1" : "person_opens_drawer",
+            "1" : "person_takes_bowl",
+            "1" : "person_puts_down_bowl",
+            "1" : "person_takes_spoon",
+            "1" : "person_puts_down_spoon",
+            "2" : "person_takes_cerealbox",
+            "3" : "person_pours_cereal_in_bowl",
+            "4" :  "person_opens_fridge_door",
+            "5" : "person_takes_milk",
+            "6" : "person_pours_milk_in_bowl",
+            "7" : "person_eats",
+            "8" : "person_takes_bowl",
+            "1" : "person_puts_down_bowl",
+            "1" : "person_leaves"
+
+        }
